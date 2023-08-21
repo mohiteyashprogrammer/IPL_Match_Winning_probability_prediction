@@ -1,16 +1,7 @@
-# neurolab-flask
+# web-page
 
-![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png)
-
-
-To run flask application 
-
-```
-python app.py
-```
+https://github.com/mohiteyashprogrammer/IPL_Match_Winning_probability_prediction/assets/114924851/2a7de10f-ef83-4fd6-9932-7547d4707dbe
 
 
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.ineuron.app:5000/
+
 ```
